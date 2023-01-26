@@ -2,7 +2,7 @@ from scapy.all import ARP, Ether, srp
 import socket
 
 # Define la dirección de red y la máscara de red
-net_addr = "192.168.0.2/24"
+net_addr = "192.000.0.2/22"
 
 
 # Crea un paquete ARP
